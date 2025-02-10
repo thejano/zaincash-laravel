@@ -15,7 +15,7 @@ composer require thejano/zaincash-laravel
 After installing the package, publish the configuration file using:
 
 ```sh
-php artisan vendor:publish --provider="ZainCash\Providers\ZainCashPaymentServiceProvider"
+php artisan vendor:publish --provider="TheJano\ZainCash\Providers\ZainCashPaymentServiceProvider"
 ```
 
 This will create a `config/zaincash.php` file where you can set your credentials.
