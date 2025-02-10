@@ -83,3 +83,9 @@ The package registers `ZainCashPaymentServiceProvider` automatically. It also pr
 
 ## License
 This package is open-sourced software licensed under the [MIT license](LICENSE).
+
+## API Documentation
+
+For more details, visit the official API documentation:
+
+[https://docs.zaincash.iq](https://docs.zaincash.iq)
